@@ -113,7 +113,7 @@ a{
 @media (max-width: 767px){
   .header .main-nav > li > a {
     padding: 12px;
-    font-size: 14px;
+    font-size: 19px;
     height: 40px;
   }
 }
@@ -213,7 +213,7 @@ a{
 
 @media (max-width: 767px) {
   .landing .text p {
-    font-size: 18px;
+    font-size: 22px;
   }
 }
 
