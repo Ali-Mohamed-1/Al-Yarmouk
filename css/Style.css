@@ -239,8 +239,8 @@ a{
 }
 
 @media (max-width: 767px) {
-  .landing .go-down i{
-    bottom: calc(3.7vh);
+  .landing .go-down {
+    bottom: 60px;
   }
 }
 
@@ -278,13 +278,14 @@ a{
 /* Start Products */
 .products{
   position: relative;
+  margin-
 }
 
 .products .container {
   min-height: calc(100vh - 72px);
   display: flex;
   align-items: center;
-  padding-top: 18px;
+  padding-top: 10px;
   padding-bottom: 120px;
 }
 
@@ -293,7 +294,7 @@ a{
   margin: 0;
   font-size: 50px;
   padding-bottom: 20px;  
-  padding-top: 90px;
+  padding-top: 130px;
 }
 
 .products::before{
