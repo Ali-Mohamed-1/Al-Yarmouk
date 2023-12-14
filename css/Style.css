@@ -240,7 +240,7 @@ a{
 
 @media (max-width: 767px) {
   .landing .go-down {
-    bottom: calc(1.5vh);
+    bottom: calc(2.5vh);
   }
 }
 
