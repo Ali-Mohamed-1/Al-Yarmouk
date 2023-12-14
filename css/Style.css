@@ -240,7 +240,7 @@ a{
 
 @media (max-width: 767px) {
   .landing .go-down i{
-    bottom: calc(1vh);
+    bottom: calc(2.7vh);
   }
 }
 
@@ -293,6 +293,7 @@ a{
   margin: 0;
   font-size: 50px;
   padding-bottom: 20px;
+  margin-top: 8px  
   padding-top: 105px;
 }
 
