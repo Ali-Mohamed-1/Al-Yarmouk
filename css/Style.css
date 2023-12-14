@@ -240,7 +240,7 @@ a{
 
 @media (max-width: 767px) {
   .landing .go-down i{
-    bottom: calc(2.7vh);
+    bottom: calc(3.7vh);
   }
 }
 
@@ -284,7 +284,7 @@ a{
   min-height: calc(100vh - 72px);
   display: flex;
   align-items: center;
-  padding-top: 10px;
+  padding-top: 18px;
   padding-bottom: 120px;
 }
 
@@ -292,9 +292,8 @@ a{
   text-align: center;
   margin: 0;
   font-size: 50px;
-  padding-bottom: 20px;
-  margin-top: 8px  
-  padding-top: 105px;
+  padding-bottom: 20px;  
+  padding-top: 90px;
 }
 
 .products::before{
