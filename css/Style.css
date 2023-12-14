@@ -278,6 +278,7 @@ a{
 /* Start Products */
 .products{
   position: relative;
+  margin-
 }
 
 .products .container {
@@ -292,8 +293,8 @@ a{
   text-align: center;
   margin: 0;
   font-size: 50px;
-  padding-bottom: 20px;
-  padding-top: 128px;
+  padding-bottom: 20px;  
+  padding-top: 130px;
 }
 
 .products::before{
