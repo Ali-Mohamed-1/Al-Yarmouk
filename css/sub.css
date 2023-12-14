@@ -1,0 +1,61 @@
+/* Start title */
+.s-landing h1 {
+    text-align: center;
+    font-size: 3em;
+}
+/* End title */
+
+/* start landing */
+
+.s-landing {
+    padding-top: 90px;
+    font-size: 25px;
+}
+
+.s-landing button {
+    border-radius: 20px;
+    background-color: #D9F9E2;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 30px;
+    transition: 0.3s;
+    box-shadow: 0 12px 20px 0 rgb(0 0 0 / 30%),
+    0 2px 4px 0 rgb(0 0 0 / 50%);
+    font-size: 25px;
+}
+
+.s-landing button span {
+    color : black;
+}
+
+.s-landing button:hover {
+    transform: translateY(-5px);
+}
+
+.type p {
+    width: 75%;
+    line-height: 1.7;
+}
+
+@media (max-width: 767px){
+    .s-landing h1 {
+        font-size: 2em;
+    }
+
+    .type {
+        text-align: center;
+    }
+
+    .type p {
+        margin: 10px auto;
+        text-align: left;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+}
+
+/* end landing */
