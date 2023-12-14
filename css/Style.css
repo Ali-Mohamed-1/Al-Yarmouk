@@ -240,7 +240,7 @@ a{
 
 @media (max-width: 767px) {
   .landing .go-down {
-    bottom: calc(2vh);
+    bottom: 60px;
   }
 }
 
@@ -293,7 +293,7 @@ a{
   margin: 0;
   font-size: 50px;
   padding-bottom: 20px;
-  padding-top: 92px;
+  padding-top: 128px;
 }
 
 .products::before{
@@ -405,7 +405,6 @@ a{
   font-size: 40px;
   font-weight: 800;
   color: white;
-  letter-spacing: -2px;
   margin-bottom: 15px;
 }
 
