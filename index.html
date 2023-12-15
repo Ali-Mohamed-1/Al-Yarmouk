@@ -36,10 +36,15 @@
 
                 <script>
                     // JavaScript code
-                    if (window.innerWidth <= 768) { // Adjust the screen width condition as per your requirement
-                        var h1Element = document.querySelector('h1');
-                        h1Element.textContent = 'Welcome to\nAl-Yarmouk';
-                    }
+                    var mediaQuery = window.matchMedia('(max-width: 768px)'); // Adjust the screen width condition as per your requirement
+                    function handleScreenChange(e) {
+                        if (e.matches) {
+                            var h1Element = document.querySelector('h1');
+                            h1Element.textContent = 'Welcome to\nAl-Yarmouk';
+                        }                       
+                    }                   
+                    mediaQuery.addListener(handleScreenChange);
+                    handleScreenChange(mediaQuery);
                 </script>
 
                 <p>Recently established chemical enterprise, 
