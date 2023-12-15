@@ -285,7 +285,7 @@ a{
   min-height: calc(100vh - 72px);
   display: flex;
   align-items: center;
-  padding-top: 10px;
+  padding-top: 0px;
   padding-bottom: 120px;
 }
 
