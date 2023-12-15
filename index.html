@@ -35,8 +35,11 @@
                 <h1>Welcome To Al-Yarmouk</h1>
 
                 <script>
-                    var h1Element = document.getElementById('h1');
-                    h1Element.textContent = 'Welcome to\nAl-Yarmouk';
+                    // JavaScript code
+                    if (window.innerWidth <= 768) { // Adjust the screen width condition as per your requirement
+                        var h1Element = document.querySelector('h1');
+                        h1Element.textContent = 'Welcome to\nAl-Yarmouk';
+                    }
                 </script>
 
                 <p>Recently established chemical enterprise, 
