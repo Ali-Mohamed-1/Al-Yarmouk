@@ -59,7 +59,7 @@ a{
   position: fixed;
   top: 0;
   width: 100%;
-  z-index: 1000;
+  z-index: 1;
 }
 
 .header .container{
@@ -126,7 +126,7 @@ a{
   background-color: #009444;
   top: 0;
   left: -100%;
-  transition: var(--main-transition);
+  transition: 0.3s;
 }
 .header .main-nav > li > a:hover{
   color: #009444;
@@ -230,7 +230,6 @@ a{
 }
 
 .landing .go-down {
-  color: #1787e0;
   position: absolute;
   bottom: 15px;
   left: 50%;
@@ -278,7 +277,6 @@ a{
 /* Start Products */
 .products{
   position: relative;
-  margin-
 }
 
 .products .container {
@@ -371,7 +369,6 @@ a{
 }
 
 .products .box > i {
-  
   margin: 40px auto;
   display: block;
   text-align: center;
