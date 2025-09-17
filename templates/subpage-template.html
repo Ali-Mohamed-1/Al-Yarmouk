@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="page-title">Al-Yarmouk</title>
+    <link rel="stylesheet" href="../css/Style.css">
+    <link rel="stylesheet" href="../css/modern-components.css">
+    <link rel="stylesheet" href="../css/normlize.css">
+    <!-- Font Awesome include -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" 
+    integrity="sha512-Avb2QiuDEEvB4bZJYdft2mNjVShBftLdPG8FJ0V7irTLQ8Uo0qcPxh4Plq7G5tGm0rU+1SPhVotteLpBERwTkw==" 
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;700&family=Work+Sans:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body class="modern-background">
+    <!-- Header Component -->
+    <div id="header-container"></div>
+    
+    <!-- Main Content -->
+    <main class="modern-container" style="padding-top: 120px;">
+        <div id="page-header"></div>
+        <div id="products-container"></div>
+    </main>
+    
+    <!-- Footer Component -->
+    <div id="footer-container"></div>
+
+    <!-- JavaScript -->
+    <script src="../js/dynamic-content.js"></script>
+    <script>
+        // Load header and footer components
+        document.addEventListener('DOMContentLoaded', async () => {
+            try {
+                const headerResponse = await fetch('../components/header.html');
+                const headerHtml = await headerResponse.text();
+                document.getElementById('header-container').innerHTML = headerHtml;
+
+                const footerResponse = await fetch('../components/footer.html');
+                const footerHtml = await footerResponse.text();
+                document.getElementById('footer-container').innerHTML = footerHtml;
+            } catch (error) {
+                console.error('Error loading components:', error);
+            }
+        });
+    </script>
+</body>
+</html>
