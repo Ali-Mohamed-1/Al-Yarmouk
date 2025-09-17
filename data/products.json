@@ -1,7 +1,7 @@
 {
   "products": {
     "paints": {
-      "title": "Paint Additives",
+      "title": "Paint",
       "icon": "fa-solid fa-fill-drip",
       "products": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     "construction": {
-      "title": "Construction Additives",
+      "title": "Construction",
       "icon": "fa-solid fa-building",
       "products": [
         {
@@ -53,7 +53,7 @@
       ]
     },
     "ink": {
-      "title": "Ink Additives",
+      "title": "Ink",
       "icon": "fa-solid fa-bottle-droplet",
       "products": [
         {
@@ -79,7 +79,7 @@
       ]
     },
     "polymer": {
-      "title": "Polymer Additives",
+      "title": "Polymer",
       "icon": "fa-solid fa-circle-plus",
       "products": [
         {
@@ -100,12 +100,12 @@
       ]
     },
     "cementitious": {
-      "title": "Cementitious Additives",
+      "title": "Cementitious",
       "icon": "fa-solid fa-helmet-safety",
       "products": [
         {
           "name": "SAF",
-          "description": "Cementing additives to Increase the Setting Time of the cement. They are specialty cementing slurry additive used to increase the thickening time for cement slurries to enable proper placement and is applicable for primary and secondary cementing jobs and is compatible with all API Oil well cements.",
+          "description": "Cementing to Increase the Setting Time of the cement. They are specialty cementing slurry additive used to increase the thickening time for cement slurries to enable proper placement and is applicable for primary and secondary cementing jobs and is compatible with all API Oil well cements.",
           "tds_path": "TDS/SAF.pdf"
         },
         {
