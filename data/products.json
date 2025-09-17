@@ -5,9 +5,9 @@
       "icon": "fa-solid fa-fill-drip",
       "products": [
         {
-          "name": "SAF",
-          "description": "Solid defoamer for minerally bound construction material systems",
-          "tds_path": "TDS/SAF.pdf"
+          "name": "AY 20 S",
+          "description": "Esters of dicarboxylic acid are used in lubrication and plasticizers. With hexamethylenediamine, azelaic acid forms Nylon-6,9, which is a specialized plastic.",
+          "tds_path": "TDS/AY 20 S.pdf"
         },
         {
           "name": "Disperse AY-45",
@@ -15,14 +15,9 @@
           "tds_path": "TDS/Disperse AY- 45 .pdf"
         },
         {
-          "name": "Antifoam AY-50",
-          "description": "VOC-free silicone-containing Defoamer for aqueous architectural coatings and adhesives. Preferably used in emulsion systems with a PVC of 45-85.",
-          "tds_path": "TDS/Antifoam AY-50.pdf"
-        },
-        {
-          "name": "Biocide AY 10",
-          "description": "Defoamer for aqueous coatings, printing inks, adhesives, paper coatings, and construction chemicals that is polymer-based, silicone-free, and free of VOC.",
-          "tds_path": "TDS/Biocide AY 10.pdf"
+          "name": "STA-56 Emulsion",
+          "description": "Colorless liquid organic compound that is used in industry as a plasticizer in the manufacture of nail polish and other cosmetics.",
+          "tds_path": "TDS/STA-56 Emulsion.pdf"
         }
       ]
     },
@@ -31,19 +26,9 @@
       "icon": "fa-solid fa-building",
       "products": [
         {
-          "name": "SAF",
-          "description": "Solid defoamer for minerally bound construction material systems",
-          "tds_path": "TDS/SAF.pdf"
-        },
-        {
-          "name": "Disperse AY-45",
-          "description": "Solid defoamer for minerally bound construction material systems",
-          "tds_path": "TDS/Disperse AY- 45 .pdf"
-        },
-        {
-          "name": "Antifoam AY-50",
-          "description": "VOC-free silicone-containing Defoamer for aqueous architectural coatings and adhesives. Preferably used in emulsion systems with a PVC of 45-85.",
-          "tds_path": "TDS/Antifoam AY-50.pdf"
+          "name": "STA-56 Emulsion",
+          "description": "Colorless liquid organic compound that is used in industry as a plasticizer in the manufacture of nail polish and other cosmetics.",
+          "tds_path": "TDS/STA-56 Emulsion.pdf"
         },
         {
           "name": "Biocide AY 10",
@@ -57,19 +42,9 @@
       "icon": "fa-solid fa-bottle-droplet",
       "products": [
         {
-          "name": "SAF",
-          "description": "Solid defoamer for minerally bound construction material systems",
-          "tds_path": "TDS/SAF.pdf"
-        },
-        {
           "name": "Disperse AY-45",
           "description": "Solid defoamer for minerally bound construction material systems",
           "tds_path": "TDS/Disperse AY- 45 .pdf"
-        },
-        {
-          "name": "Antifoam AY-50",
-          "description": "VOC-free silicone-containing Defoamer for aqueous architectural coatings and adhesives. Preferably used in emulsion systems with a PVC of 45-85.",
-          "tds_path": "TDS/Antifoam AY-50.pdf"
         },
         {
           "name": "Biocide AY 10",
@@ -83,19 +58,14 @@
       "icon": "fa-solid fa-circle-plus",
       "products": [
         {
-          "name": "STA-56 Emulsion",
-          "description": "Colorless liquid organic compound that is used in industry as a plasticizer in the manufacture of nail polish and other cosmetics.",
-          "tds_path": "TDS/STA-56 Emulsion.pdf"
+          "name": "Disperse AY-45",
+          "description": "Are additives that are pumped between the drilling fluid and the cement slurry to form a buffer and prevent the drilling fluid and the cement slurry from coming into contact.",
+          "tds_path": "TDS/Disperse AY- 45 .pdf"
         },
         {
-          "name": "AY 20 S",
-          "description": "Esters of dicarboxylic acid are used in lubrication and plasticizers. With hexamethylenediamine, azelaic acid forms Nylon-6,9, which is a specialized plastic.",
-          "tds_path": "TDS/AY 20 S.pdf"
-        },
-        {
-          "name": "Antifoam AY-50",
-          "description": "It is the most widely used general purpose plasticizer for the manufacture of flexible plastics, especially PVC",
-          "tds_path": "TDS/Antifoam AY-50.pdf"
+          "name": "Biocide AY 10",
+          "description": "Defoamer for aqueous coatings, printing inks, adhesives, paper coatings, and construction chemicals that is polymer-based, silicone-free, and free of VOC.",
+          "tds_path": "TDS/Biocide AY 10.pdf"
         }
       ]
     },
@@ -109,14 +79,9 @@
           "tds_path": "TDS/SAF.pdf"
         },
         {
-          "name": "AY 20 S",
-          "description": "Additives to reduce the setting time and increase the rate of Compressive strength, speeds up or shortens the normal rate of reaction time between cement and water which shortens the thickening time of the cement and increases the early strength of the cement required for the cement slurry to become hardened mass.",
-          "tds_path": "TDS/AY 20 S.pdf"
-        },
-        {
-          "name": "Disperse AY-45",
-          "description": "Are additives that are pumped between the drilling fluid and the cement slurry to form a buffer and prevent the drilling fluid and the cement slurry from coming into contact.",
-          "tds_path": "TDS/Disperse AY- 45 .pdf"
+          "name": "STA-56 Emulsion",
+          "description": "The chemical that will help to increase oxygen or electronegative part and release the hydrogen is known as oxidizing & reducing agent.",
+          "tds_path": "TDS/STA-56 Emulsion.pdf"
         }
       ]
     },
@@ -125,19 +90,9 @@
       "icon": "fa-solid fa-rug",
       "products": [
         {
-          "name": "AY 20 S",
-          "description": "The chemical which is used for quickly moisten or watering the textile materials is called wetting agent.",
-          "tds_path": "TDS/AY 20 S.pdf"
-        },
-        {
           "name": "Biocide AY 10",
           "description": "Dye fixing agent is nothing but a chemical that helps to fix up the dye particle into inner position of the fibre with the bondage.",
           "tds_path": "TDS/Biocide AY 10.pdf"
-        },
-        {
-          "name": "STA-56 Emulsion",
-          "description": "The chemical that will help to increase oxygen or electronegative part and release the hydrogen is known as oxidizing & reducing agent.",
-          "tds_path": "TDS/STA-56 Emulsion.pdf"
         }
       ]
     }
